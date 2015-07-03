@@ -1,0 +1,199 @@
+@import url(http://fonts.googleapis.com/css?family=Anton);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+.wrapper {
+    min-width: 400px;
+    max-width: 700px;
+    margin: auto;
+  float: none 
+  
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: black;
+  text-align: center
+}
+
+label {
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center
+}
+div div {
+  float:left;
+  width: 32%;
+  height: 100px;
+  border: solid 2px black;
+  text-align: left
+}
+form {
+  text-align: center
+}
+body {
+    background-color: white;
+    margin: solid 300px white
+}
+
+#a1 {
+    background-color: #ff0000
+}
+
+#a2 {
+    background-color: #ff1919
+}
+#a3 {
+    background-color: #ff1a1a
+}
+#a4 {
+    background-color: #F80000
+}
+#a5 {
+    background-color: #F00000
+}
+#a6 {
+    background-color: #E80000
+}
+#a7 {
+    background-color: #E00000
+}
+#a8 {
+    background-color: #D80000
+}
+#a9 {
+    background-color: #D00000
+}
+
+#b1 {
+    background-color: #0066CC
+}
+#b2 {
+    background-color: #0099CC
+}
+#b3 {
+    background-color: #0000CC
+}
+#b4 {
+    background-color: #0033FF
+}
+#b5 {
+    background-color: #00FFFF
+}
+#b6 {
+    background-color: #00FFCC
+}
+#b7 {
+    background-color: #3399FF
+}
+#b8 {
+    background-color: #3300CC
+}
+#b9 {
+    background-color: #00CCFF
+}
+#c1 {
+    background-color: #33FF66
+}
+#c2 {
+    background-color: #00FF33
+}
+#c3 {
+    background-color: #00FF66
+}
+#c4 {
+    background-color: #33FF00
+}
+#c5 {
+    background-color: #33FF33
+}
+#c6 {
+    background-color: #00FF00
+}
+#c7 {
+    background-color: #66FF00
+}
+#c8 {
+    background-color: #66FF33
+}
+#c9 {
+    background-color: #66FF66
+}
+#d1 {
+    background-color:#CC99FF
+}
+#d2 {
+    background-color: #CC66FF
+}
+#d3 {
+    background-color: #CC33FF
+}
+#d4 {
+    background-color: #CC33CC
+}
+#d5 {
+    background-color: #9B30FF
+}
+#d6 {
+    background-color: #9933CC
+}
+#d7 {
+    background-color: #9900FF
+}
+#d8 {
+    background-color: #6600CC
+}
+#d9 {
+    background-color: #6633CC
+}
+
+#e1{
+    background-color: #FFCC00
+}
+#e2{
+    background-color: #FFCC66
+}
+#e3{
+    background-color: #FFCC33
+}
+#e4{
+    background-color:  #FFA500
+}
+#e5{
+    background-color: #FF9966
+}
+#e6{
+    background-color: #FF9933
+}
+#e7{
+    background-color: #FF9900
+}
+#e8{
+    background-color: #FF6633
+}
+#e9{
+    background-color: #FF6600
+}
+#f1{
+    background-color: #FF007F
+}
+#f2{
+    background-color: #FF1CAE
+}
+#f3{
+    background-color: #EE30A7
+}
+#f4{
+    background-color: #FF34B3
+}
+#f5{
+    background-color: #EE1289
+}
+#f6{
+    background-color: #FF1493
+}
+#f7{
+    background-color:  #FF00AA
+}
+#f8{
+    background-color: #EE3A8C
+}
+#f9{
+    background-color: #FF3E96
+}

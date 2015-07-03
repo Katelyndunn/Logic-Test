@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Anton);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: black;
+  text-align: center;
+  
+}
+.titles{
+  background-color: rgba(255,255,255,0.5);
+    
+}
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  color: black;
+    background: semi-transparent white;
+}
+body {
+    background-color: white;
+    margin: solid 300px;
+    text-align: center; 
+}
+#background {
+  background: url('http://ak.picdn.net/shutterstock/videos/5331479/preview/stock-footage-falling-colorful-confetti-on-white-background-hq-seamless-looping-animation-with-alpha-channel.jpg');
+    clear: left;
+  background-attachment: fixed;
+}

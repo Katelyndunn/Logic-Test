@@ -1,0 +1,16 @@
+<!doctype HTML>
+<html>
+  <head>
+    <title>Congratulations!</title>
+    <link rel="stylesheet" type="text/css" href="css/style2.css">
+  </head>
+  
+  <body id="background">
+    <div class = "titles">
+    <h1> Congratulations, <%= @name.capitalize %>! </h1>
+    <br> <br>
+    <h2> You answered <%= @result[:correct_answer] %> correctly! </h2> 
+    </div>
+  </body>
+  
+</html>
